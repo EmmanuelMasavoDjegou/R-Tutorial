@@ -25,7 +25,6 @@ Each file corresponds to a chapter from the book:
 15. Connecting R with Other Languages
 16. Parallel Computing in R
 
-Let me know if you'd like further refinements!
 ## 🎯 Purpose
 
 - Practice and master core R programming concepts  
