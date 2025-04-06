@@ -6,9 +6,7 @@ This repository contains my personal scripts and code examples inspired by the b
 
 ## 📚 Chapters Covered
 
-Each script corresponds to a chapter from the book:
-
-Certainly! Here are the reworded titles:
+Each file corresponds to a chapter from the book:
 
 1. Introduction to R
 2. Working with Vectors
