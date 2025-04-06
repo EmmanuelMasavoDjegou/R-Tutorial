@@ -2,7 +2,9 @@
 
 Welcome to my R learning journey!
 
-This repository contains my personal scripts and code examples inspired by the book **"The Art of R Programming"** by **Norman Matloff**. I'm working through the book chapter by chapter to build a strong foundation in R programming.
+This repository contains my personal scripts and code examples inspired by the book **"The Art of R Programming"** by **Norman Matloff**. 
+
+I'm working through the book chapter by chapter to build a strong foundation in R programming.
 
 ## 🎯 Purpose
 
