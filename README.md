@@ -8,23 +8,26 @@ This repository contains my personal scripts and code examples inspired by the b
 
 Each script corresponds to a chapter from the book:
 
-1. Getting Started  
-2. Vectors  
-3. Matrices and Arrays  
-4. Lists  
-5. Data Frames  
-6. Factors and Tables  
-7. R Programming Structures  
-8. Math and Simulations  
-9. Object-Oriented Programming  
-10. Input/Output  
-11. String Manipulation  
-12. Graphics  
-13. Debugging  
-14. Performance Enhancement  
-15. Interfacing R to Other Languages  
-16. Parallel R  
+Certainly! Here are the reworded titles:
 
+1. Introduction to R
+2. Working with Vectors
+3. Matrices and Array Operations
+4. Lists in R
+5. Understanding Data Frames
+6. Factors and Tables in R
+7. Key R Programming Constructs
+8. Mathematical Computations and Simulations
+9. Object-Oriented Programming in R
+10. Input and Output Operations
+11. String Handling in R
+12. Creating Graphics in R
+13. Debugging Techniques in R
+14. Optimizing Performance in R
+15. Connecting R with Other Languages
+16. Parallel Computing in R
+
+Let me know if you'd like further refinements!
 ## 🎯 Purpose
 
 - Practice and master core R programming concepts  
